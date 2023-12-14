@@ -9804,7 +9804,7 @@
   (gr_text "r5" (at 110.49 85.09 90) (layer "F.SilkS") (tstamp ff16b18a-0883-4a0a-ba20-d61df9d50cbc)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "These resistors mess with the keypad, \nonly populate them if you're not using these oins for the keypad" (at 75.946 76.962) (layer "F.SilkS") (tstamp ff8b82d6-2e1d-41b8-a8a2-f2ce4be8b516)
+  (gr_text "These resistors mess with the keypad, \nonly populate them if you're not using these pins for the keypad" (at 75.946 76.962) (layer "F.SilkS") (tstamp ff8b82d6-2e1d-41b8-a8a2-f2ce4be8b516)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
 
